@@ -1,9 +1,11 @@
 # Covid-Tracker
 
-
 This Covid Tracker is created using React js and Node js integrated with Map and Covid API.
 
-Preview     https://covid-tracker-by-ak.web.app/
+## Preview     https://covid-tracker-by-ak.web.app/
+
+### Preview Image
+<img src="https://github.com/Ankit628792/Covid-Tracker/blob/master/covid.png?raw=true" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
